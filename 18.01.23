@@ -1,0 +1,118 @@
+//#include <iostream>
+//using namespace std;
+//int main() {
+//	int age;
+//	cin >> age;
+//	if (age >= 0 && age <= 100) { cout << "ok monke "; }
+//	else cout << "wrong monke ahh";
+//	string name;
+//	cin >> name;
+//	if (name == "stanislavs" || name == "stanislavs") { cout << "ok monke"; }
+//	else cout << "wrong monke";
+//}
+
+//#include 
+//using namespace std;
+//int main() {
+// int catage, dogage;
+// cin >> catage >> dogage;
+// if (catage > 0 && catage < 20) { cout << "cat is ok"; }
+// else cout << "cat is too old";
+// if (dogage > 0 && dogage < 20) { cout << "dog is ok"; }
+// else cout << "dog is too old";
+
+
+
+//#include <iostream>
+//using namespace std;
+//int main() {
+//
+//	int atz, age, aug;
+//	cin >> atz >> age >> aug;
+//	if (atz >= 0 && atz <= 10) { cout << "ok monke" << endl; }
+//	else cout << "ur monke asf"<< endl;
+//	
+//	if (age >= 7 && age <= 18) {
+//		cout << "ok monke" << endl;
+//	}
+//	else cout << "wrong monke" << endl;
+//
+//		if (aug >= 150 && aug <= 200) {
+//			cout << "ok monke" << endl;
+//		}
+//		else cout << "ur monke ahhh" << endl;
+//
+//}
+
+#include<iostream>
+using namespace std;
+int main() {
+	int age = 15;
+	cout << "_______________" << endl;
+	cout << "login" << endl;
+	string login = "monkey2007", l1;
+	cin << l1
+		if (l1 == login) {
+			cout << age << endl;
+		}
+
+	else cout << "THATS INCORRECT YOU MONKE ASF" << endl;
+	cout << "password";
+	string parole = "a1", p1;
+	cout << "_______________" << endl;
+	cin >> p1;
+	if (p1 == parole) {
+		cout << age << endl;
+	}
+	
+	else cout << "THATS INCORRECT YOU MONKE ASF" << endl;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
