@@ -1,0 +1,21 @@
+
+-- create
+CREATE TABLE EMPLOYEE (
+  Id INTEGER NOT NULL,
+  Customerid INTEGER NOT NULL,
+  Name TEXT NOT NULL,
+  Surname TEXT NOT NULL,
+  Customer_name TEXT NOT NULL
+);
+
+-- insert
+INSERT INTO EMPLOYEE VALUES (1, 1 ,'Thomas','Anderson','Jewelry store');
+INSERT INTO EMPLOYEE VALUES (2, 2, 'Thomas','Anderson','Bakery');
+INSERT INTO EMPLOYEE VALUES (3, 3, 'Thomas','Anderson','Cafe' );
+INSERT INTO EMPLOYEE VALUES (4, 4,'Thomas','Anderson','Restaurant');
+INSERT INTO EMPLOYEE VALUES (1, 1,'Agent','Smith','Jewelry store');
+INSERT INTO EMPLOYEE VALUES (2, 2, 'Agent','Smith','Bakery');
+INSERT INTO EMPLOYEE VALUES (3, 3, 'Agent','Smith','Cafe');
+INSERT INTO EMPLOYEE VALUES (4, 4,'Agent','Smith','Restaurant');
+
+SELECT from EMPLOYEE
